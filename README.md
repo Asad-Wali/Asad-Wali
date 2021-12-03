@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asad-Wali
 - 👀 I’m interested in Learning New Technologies 
-- 🌱 I’m currently learning React JS and Redux Saga
+- 🌱 Ember js | React Js | Angular Js Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
